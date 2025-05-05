@@ -1,5 +1,4 @@
-import pygame
-from circleshape import CircleShape
+from circleshape import *
 
 class Shot(CircleShape):
     def __init__(self, x, y, radius):

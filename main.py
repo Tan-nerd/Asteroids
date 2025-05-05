@@ -1,7 +1,6 @@
 import pygame
 import sys
 from constants import *
-from circleshape import CircleShape
 from player import Player
 from asteroid import Asteroid
 from AsteroidField import AsteroidField
